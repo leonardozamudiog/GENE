@@ -1,0 +1,7 @@
+C:\Users\najera\Documents\Practica2JJBN\Practica2JJBN\bin\Debug\Practica2JJBN.exe.config
+C:\Users\najera\Documents\Practica2JJBN\Practica2JJBN\bin\Debug\Practica2JJBN.exe
+C:\Users\najera\Documents\Practica2JJBN\Practica2JJBN\bin\Debug\Practica2JJBN.pdb
+C:\Users\najera\Documents\Practica2JJBN\Practica2JJBN\obj\Debug\Practica2JJBN.csproj.AssemblyReference.cache
+C:\Users\najera\Documents\Practica2JJBN\Practica2JJBN\obj\Debug\Practica2JJBN.csproj.CoreCompileInputs.cache
+C:\Users\najera\Documents\Practica2JJBN\Practica2JJBN\obj\Debug\Practica2JJBN.exe
+C:\Users\najera\Documents\Practica2JJBN\Practica2JJBN\obj\Debug\Practica2JJBN.pdb

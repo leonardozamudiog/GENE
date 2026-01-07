@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 
 namespace Practica2JJBN
 {
-
+    //prueba de proyecto clonado 20260107
     //Implementar en Mi Proyecto de Panaderia
     class Program
     {
